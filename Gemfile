@@ -18,6 +18,6 @@ gem 'jbuilder', '~> 2.0'
 
 gem 'spring',        group: :development
 
-group :test do
-  gem 'rspec-rails'
-end
+gem 'rspec-rails'
+
+gem "slim-rails"
