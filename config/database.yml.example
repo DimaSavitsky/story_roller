@@ -1,0 +1,5 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: story_roller_dev
+  pool: 5
