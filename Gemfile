@@ -21,3 +21,5 @@ gem 'spring',        group: :development
 gem 'rspec-rails'
 
 gem "slim-rails"
+
+gem 'pry'
